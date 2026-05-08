@@ -11,8 +11,11 @@
 ### 🛠️ Tech Stack & Capabilities
 
 🤖 Machine Learning: Use xgboost, scikit-learn, h2o, datarobot, or any ML algorithm.
+
 ✨ AI: Connect to OpenAI, Claude, Gemini, Huggingface, etc. and various other LLM/AI providers or LLM gateways.
+
 ☁️ Cloud: Native deployments on AWS, Google Cloud, Microsoft Azure, Openshift, on your cloud of choice.
+
 💼 Enterprise Ready: Work with your existing enterprise tech stack - Single SignOn, Data Lakes, LLM gateways, and so on.
 
 ### 📚 Resources
